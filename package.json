@@ -1,0 +1,14 @@
+{
+  "name": "my-first-jenkins-ci-cd",
+  "version": "1.0.0",
+  "description": "This a my first peoject with jenkins and aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kartik Raina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
