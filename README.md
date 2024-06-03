@@ -1,1 +1,1 @@
-This is a Automated CI/CD pipeline that automates the process of building and deploying application.
+This is an Automated CI/CD pipeline that automates the process of building and deploying application.
